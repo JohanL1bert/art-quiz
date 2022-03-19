@@ -10,4 +10,4 @@ https://johanl1bert-art-quiz.netlify.app/
 
 1. Refactor code
 2. Delete unuse files
-3. Finish
+3. Add setting
