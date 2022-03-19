@@ -7,7 +7,7 @@ import renderSetting from "./settingRender/setting";
 
 let categoryName;
 let buttonClick;
-/* let settingBtn; */
+
 const artistQuizBtn = document.querySelector(".artist__button");
 const pictureButton = document.querySelector(".picture__button");
 const settingSelector = document.querySelector(".header__setings");
